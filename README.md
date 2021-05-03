@@ -1,11 +1,13 @@
 **PROJECT TRADELEDGER - FRONTEND TEST**
 
-**Requirements**
+**Pre-Requisite**
 
 $ node --version
+
 v14.15.5
 
 $ npm --version
+
 7.11.2
 
 
