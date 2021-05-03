@@ -19,4 +19,4 @@ $ npm install
 
 **Run the Script**
 
-$ npm run
+$ npm test
