@@ -1,11 +1,19 @@
-The FrontEnd test is written using NodeJs framwork
+**PROJECT TRADELEDGER - FRONTEND TEST**
 
-Node Version used v14.15.5
+**Requirements**
 
-Steps the execute the test
+$ node --version
+v14.15.5
+$ npm --version
+7.11.2
 
-clone the git repo — 
 
-npm install
+**Install**
 
+$ git clone https://github.com/rohit7951/TLFronEndTestFramework.git
+$ cd TLFronEndTestFramework
+$ npm install
 
+**Run the Script**
+
+$ npm run
